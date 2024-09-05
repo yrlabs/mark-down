@@ -13,3 +13,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
     <img src="path/to/email-icon.png" alt="Email Icon">
 </a>
 ```
+- [ ] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
